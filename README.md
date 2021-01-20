@@ -1,3 +1,5 @@
+Demo: https://codesandbox.io/s/smoosh-river-81lv5?file=/src/index.ts:102-103
+
 Prompt
 
 Our take-home is a brief test of your fundamental JavaScript knowledge. It's likely much shorter than most take-homes you will encounter. This is because we feel that your time is valuable, and we do not want our test to be biased against people who have a busy schedule.
